@@ -3,9 +3,9 @@
 The primary goal of this project is to create a website that will assist farmers. This website will provide a simple platform for farmers to ask questions about agriculture, and experts in the field will respond to the issues raised by farmers in forums. It also advises farmers on the best fertilizer to use in order for them to maximize their profits.
 
 ## What it does
-**Forums:** The user can post their queries related to plant health and can also reply to the other users queries.
-**Fertilizer advice:** Advice will be given to the user to improve their plant health based on soil nutrients(Nitrogen, Phosphorus, Potassium).
-**E-learning:** Displays some informative resources to the user related to plant-health, soil and fertilizer.
+**Forums:** The user can post their queries related to plant health and can also reply to the other users queries.<br>
+**Fertilizer advice:** Advice will be given to the user to improve their plant health based on soil nutrients(Nitrogen, Phosphorus, Potassium).<br>
+**E-learning:** Displays some informative resources to the user related to plant-health, soil and fertilizer.<br>
 
 
 ## Built with 🛠️
@@ -44,7 +44,7 @@ Open the link in browser host:127.0.0.1 port:8000 (http://127.0.0.1/8000)
 3. We can also add *search engines* for retrieving farmer-specific data.
 
 ## Website Link
-<a href="https://farm-fully.herokuapp.com/">Take a look!</a>
+<a href="https://farm-fully.herokuapp.com/" target="_blank">Take a look!</a>
 
 ## Authors
 <p>
