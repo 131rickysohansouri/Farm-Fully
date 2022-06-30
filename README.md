@@ -46,6 +46,9 @@ Open the link in browser host:127.0.0.1 port:8000 (http://127.0.0.1/8000)
 ## Website Link
 <a href="https://farm-fully.herokuapp.com/" target="_blank">Take a look!</a>
 
+## Interface
+![image](https://user-images.githubusercontent.com/68593617/176739994-5e7c1483-ffd2-4af7-9fac-d9a6e37a7d83.png)
+
 ## Authors
 <p>
     <a href="https://github.com/ChebroluTejaswi"><img src="https://avatars.githubusercontent.com/u/68593617" height=50 width=50></a>&nbsp;
