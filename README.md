@@ -7,6 +7,13 @@ The primary goal of this project is to create a website that will assist farmers
 **Fertilizer advice:** Advice will be given to the user to improve their plant health based on soil nutrients(Nitrogen, Phosphorus, Potassium).<br>
 **E-learning:** Displays some informative resources to the user related to plant-health, soil and fertilizer.<br>
 
+## Authors
+<p>
+    <a href="https://github.com/ChebroluTejaswi"><img src="https://avatars.githubusercontent.com/u/68593617" height=50 width=50></a>&nbsp;
+    <a href="https://github.com/PoojithaGuniputi"><img src="https://avatars.githubusercontent.com/u/88592906" height=50 width=50></a>&nbsp;
+    <a href="https://github.com/131rickysohansouri"><img src="https://avatars.githubusercontent.com/u/68801841" height=50 width=50></a>
+</p>
+
 
 ## Built with 🛠️
 <p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -49,9 +56,3 @@ Open the link in browser host:127.0.0.1 port:8000 (http://127.0.0.1/8000)
 ## Interface
 ![image](https://user-images.githubusercontent.com/68593617/176739994-5e7c1483-ffd2-4af7-9fac-d9a6e37a7d83.png)
 
-## Authors
-<p>
-    <a href="https://github.com/ChebroluTejaswi"><img src="https://avatars.githubusercontent.com/u/68593617" height=50 width=50></a>&nbsp;
-    <a href="https://github.com/PoojithaGuniputi"><img src="https://avatars.githubusercontent.com/u/88592906" height=50 width=50></a>&nbsp;
-    <a href="https://github.com/131rickysohansouri"><img src="https://avatars.githubusercontent.com/u/68801841" height=50 width=50></a>
-</p>
